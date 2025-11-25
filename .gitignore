@@ -1,0 +1,12 @@
+# IDE / editor stuff
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+
+# Secret diary sensitive data
+keys/
+users_db.json
+data_*.json
+*.pem
+*.csr.pem
